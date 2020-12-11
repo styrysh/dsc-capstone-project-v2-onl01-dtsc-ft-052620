@@ -14,7 +14,7 @@ Interest rate by state
 ![Imgur](https://i.imgur.com/WvWivEh.png)
 
 Employment and annual income by state
-![Imgur](https://i.imgur.com/LSbBFcs.png)
+![Imgur](https://i.imgur.com/LSbBFcs.png?1)
 
 
 
