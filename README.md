@@ -11,10 +11,10 @@ Narrow down a list of criteria which increase the probability of default the mos
 ## Employment and interest rate by state
 
 Interest rate by state
-[Imgur](https://i.imgur.com/WvWivEh.png)
+![Imgur](https://i.imgur.com/WvWivEh.png)
 
 Employment and annual income by state
-[Imgur](https://i.imgur.com/LSbBFcs.png)
+![Imgur](https://i.imgur.com/LSbBFcs.png)
 
 
 
